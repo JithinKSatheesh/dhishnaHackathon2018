@@ -115,8 +115,8 @@ Main Components
     }
     #rightp{
       width: 550px;
-   
-      line-height: 20px;
+      font-size: 2em;
+      line-height: 50px;
     }
     #register{
       font-size: 2em;
@@ -185,6 +185,10 @@ font-weight: 700;
   color: grey;
   font-weight: 700;
 }
+
+.mapouter{
+  padding-left: 50px;
+}
 .sec3{
   background-color:#2F2F2F ;
   height: 100%;
@@ -233,6 +237,7 @@ order: 1;
   
   color: white;
 }
+
 .sec4{
   
   background-color: #9D5CC4;
@@ -274,8 +279,8 @@ order: 1;
     max-width: 700px;
     font-size: 1.2em;
     margin-left: 150px;
-    margin-top: 50px;
-    line-height: 35px;
+    margin-top: 30px;
+    line-height: 33px;
     margin-right: auto;
     /*position: absolute;*/
   }
@@ -283,13 +288,35 @@ order: 1;
     max-width: 700px;
     font-size: 1.2em;
     margin-left: 150px;
-    margin-top: 30px;
-    line-height: 35px;
+    margin-top: 10px;
+    line-height: 33px;
   }
   .sec5 span{
     font-size: 1.4em;
     font-weight: 700;
   }
+  .sec5_logos{
+  margin-top: 20px;
+  margin-left:150px; 
+}
+#logo4{
+  width: 100px;
+  height: 100px;
+  border-radius: 30px;
+
+}
+#logo5{
+ width: 100px;
+  height: 100px;
+  border-radius: 30px;
+  margin-left: 20px;
+}
+#logo6{
+ width: 100px;
+  height: 100px;
+  border-radius: 30px;
+  margin-left: 20px;
+}
 .sec6{
   background-color: #6f42c1;
   height: 100%;
